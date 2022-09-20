@@ -3,9 +3,9 @@
 ![header](https://github.com/kimyerim01118/kimyerim01118/blob/main/Nametag.svg?raw=true)  
 # 📊 Github Statistics
   
-[<img width=52% src="https://github-readme-stats.vercel.app/api?username=kimyerim01118">](https://github.com/kimyerim01118)
-[<img width=21.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyerim01118">](https://github.com/kimyerim01118)  
-[<img width=74% src="https://github-profile-trophy.vercel.app/?username=kimyerim01118">](https://github.com/kimyerim01118)  
+[<img width=52% src="https://github-readme-stats.vercel.app/api?username=yr0118kim">](https://github.com/kimyerim01118)
+[<img width=21.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yr0118kim">](https://github.com/kimyerim01118)  
+[<img width=74% src="https://github-profile-trophy.vercel.app/?username=yr0118kim">](https://github.com/kimyerim01118)  
 
 &nbsp;
 # 🖥️ Programming Stacks
