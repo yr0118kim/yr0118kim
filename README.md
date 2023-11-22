@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=dd4a4a&height=200&section=header&text=안녕하세요&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=870af6&height=200&section=header&text=수인이&fontSize=60)
